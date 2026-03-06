@@ -1,2 +1,2 @@
 # Java-SpringAI
-Learning Spring AI
+Learning Java and Spring AI
