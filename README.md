@@ -8,3 +8,11 @@ Now you’re ready for:
 * Methods (Functions in Java)
 * Pass by value concept
 * OOP (Classes & Objects deep dive)
+
+# Full OOP Lab (Classes, Objects, Constructors)
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Interfaces
+* Abstract classes
