@@ -139,3 +139,53 @@ public class Main {
         System.out.println("===== END =====");
     }
 }
+
+/*
+Very Important Concepts
+1️⃣ Java is ALWAYS Pass by Value
+
+Primitive → copy of value
+
+Object → copy of reference
+
+Java NEVER passes by reference like C++.
+
+2️⃣ Static vs Non-Static
+Static Method
+
+Belongs to class
+
+Called without object
+
+Used in utility/helper classes
+
+Non-Static Method (MOST USED IN PRODUCTION)
+
+Belongs to object
+
+Used in OOP
+
+Used in Spring Boot
+
+Used in real enterprise apps
+
+Which Style is Used Most in Production?
+
+👉 NON-STATIC methods inside classes.
+
+Because real-world Java is:
+
+Object Oriented
+
+Based on dependency injection (Spring)
+
+Uses service classes, repositories, controllers
+
+Static methods are mostly used for:
+
+Utility classes
+
+Helper methods
+
+Math operations
+*/
