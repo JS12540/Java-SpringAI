@@ -5,9 +5,8 @@ Learning Java and Spring AI
 
 Now you’re ready for:
 
-* Methods (Functions in Java)
-* Pass by value concept
 * OOP (Classes & Objects deep dive)
+* API development
 
 # Full OOP Lab (Classes, Objects, Constructors)
 
