@@ -6,12 +6,5 @@ Learning Java and Spring AI
 Now you’re ready for:
 
 * OOP (Classes & Objects deep dive)
+* Constructor etc 
 * API development
-
-# Full OOP Lab (Classes, Objects, Constructors)
-
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Interfaces
-* Abstract classes
