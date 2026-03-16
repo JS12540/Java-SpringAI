@@ -1,10 +1,8 @@
 # Java-SpringAI
 Learning Java and Spring AI
 
-# 🚀 Next Logical Step
+# Next Step
 
-Now you’re ready for:
+Next things:
 
-* OOP (Classes & Objects deep dive)
-* Constructor etc 
 * API development
