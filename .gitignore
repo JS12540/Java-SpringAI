@@ -1,0 +1,31 @@
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# IntelliJ IDEA
+*.iws
+*.ipr
+out/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env
+application-local.yml
+application-local.properties
